@@ -164,17 +164,17 @@ The boiler plate for this project is based on [ The League of Extraordinary Pack
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/dlindberg/DOMDocumentFactory.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/dlindberg/dom-document-factory.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/dlindberg/DOMDocumentFactory/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/dlindberg/DOMDocumentFactory.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/dlindberg/DOMDocumentFactory.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/dlindberg/DOMDocumentFactory.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/dlindberg/dom-document-factory.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/dlindberg/DOMDocumentFactory
+[link-packagist]: https://packagist.org/packages/dlindberg/dom-document-factory
 [link-travis]: https://travis-ci.org/dlindberg/DOMDocumentFactory
 [link-scrutinizer]: https://scrutinizer-ci.com/g/dlindberg/DOMDocumentFactory/code-structure
 [link-code-quality]: https://scrutinizer-ci.com/g/dlindberg/DOMDocumentFactory
-[link-downloads]: https://packagist.org/packages/dlindberg/DOMDocumentFactory
+[link-downloads]: https://packagist.org/packages/dlindberg/dom-document-factory
 [link-author]: https://github.com/dlindberg
 [link-contributors]: ../../contributors
